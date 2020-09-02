@@ -3,11 +3,12 @@ React native  app that demonstrate the usage of `react-native-notification-sound
 
 ## Installation
 
-`$ git clone https://github.com/saadqbal/notificationSounds.git`
-`$ cd notificationSounds`
-`$ npm install`
-`$ cd ios`
+`$ git clone https://github.com/saadqbal/notificationSounds.git`\
+`$ cd notificationSounds`\
+`$ npm install`\
+`$ cd ios`\
 `$ pod install`
+
 ### For Android
 `$ react-native run-android`
 ### For iOS
