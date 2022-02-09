@@ -26,8 +26,7 @@ import {
   DebugInstructions,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
-import NotificationSounds, { playSampleSound } from 'react-native-notification-sounds';
-import { stopSampleSound } from 'react-native-notification-sounds';
+import NotificationSounds, { playSampleSound, stopSampleSound } from 'react-native-notification-sounds';
 
 const App: () => React$Node = () => {
   const [soundsList, setSoundsList] = useState({});
